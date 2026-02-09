@@ -4,7 +4,7 @@
  * - License: MIT
  *
  * - Device  : MMC5983MA (3-axis magnetometer + temperature)
- * - Buses   : I2C and SPI (Mode 3)
+ * - Buses   : I2C
  * - Output  : Raw 18-bit magnetometer data converted to mG (milli-Gauss)
  * - Extras  : Optional smoothing (low-pass) filter, 2D calibration, background 3D auto-cal,
  *             heading + tilt-compensated heading
